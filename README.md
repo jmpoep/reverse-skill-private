@@ -70,8 +70,10 @@ PRIMARY 快路径：[skills/MASTER-ROUTING.md](skills/MASTER-ROUTING.md) · 全�
 
 <div align="center">
   <a href="https://star-history.com/#zhaoxuya520/reverse-skill&Date">
-    <img src="https://api.star-history.com/svg?repos=zhaoxuya520/reverse-skill&type=Date" alt="Star History" width="650" />
+    <img src="docs/assets/star-history.svg" alt="Star History — zhaoxuya520/reverse-skill" width="650" />
   </a>
+  <br/>
+  <sub>静态曲线（仓库内 SVG）。公网 <code>api.star-history.com</code> 因 GitHub stargazers API 限制已不可用；更新：<code>skills/scripts/update-star-history.ps1</code></sub>
 </div>
 
 <br/>

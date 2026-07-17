@@ -66,8 +66,10 @@ PRIMARY ladder: [skills/MASTER-ROUTING.md](skills/MASTER-ROUTING.md) · Full mat
 
 <div align="center">
   <a href="https://star-history.com/#zhaoxuya520/reverse-skill&Date">
-    <img src="https://api.star-history.com/svg?repos=zhaoxuya520/reverse-skill&type=Date" alt="Star History" width="650" />
+    <img src="docs/assets/star-history.svg" alt="Star History — zhaoxuya520/reverse-skill" width="650" />
   </a>
+  <br/>
+  <sub>Static chart (in-repo SVG). Public <code>api.star-history.com</code> embeds broke after GitHub stargazers API restrictions. Refresh: <code>skills/scripts/update-star-history.ps1</code></sub>
 </div>
 
 <br/>
